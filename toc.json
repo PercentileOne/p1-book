@@ -3,7 +3,8 @@
   "chapters": [
     {
       "title": "Chapter 1 — Introduction",
-      "path": "sections/01-introduction/chapter-01.md"
+      "path": "sections/01-introduction/chapter-01.md",
+      "type": "preface"
     }
   ]
 }
