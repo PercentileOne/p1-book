@@ -1,39 +1,35 @@
-# Chapter 1 — Introduction
+# Preface — The Beginning
 
-The Dream of Every Developer
-The moment you realise you’re meant to build something that matters.
-✕ Close
-Chapter 1 — The Dream of Every Developer
-There is a moment every developer knows — a quiet, electric stillness that settles over the room long after the world has gone to sleep. The monitor glows like a doorway. The cursor blinks like a heartbeat. And for a few suspended seconds, it feels as if the entire universe is waiting for you to type the next line.
+As I begin writing this book, I do so with pain in my body and fire in my spirit. I live with chronic kidney disease, diabetes, and a list of other conditions long enough to fill a chapter of their own.
 
-It’s the moment where possibility becomes tangible. The moment where you realise you’re not just writing code — you’re trying to build a world.
+Right now, as these words take shape, I am sitting in a dialysis chair — one of the three sessions I endure every week, three hours at a time. I am waiting for a life‑changing operation. And in the middle of all this, I have been doubted, abandoned, and ridiculed by people I once trusted.
 
-Every developer has felt it. That pull. That whisper. That sense that something bigger is trying to break through the noise.
+But I also have something far more powerful: a burning desire to succeed, to leave a mark on this world, to build something that outlives me.
 
-It’s the dream. The dream of building something that matters. Something elegant. Something powerful. Something that outlives you. Something that changes the trajectory of your life — and maybe the lives of others.
+The only thing I have ever truly known is how to write software. I’ve been doing it for more than twenty years. Yet when the idea for Percentile.One arrived, I wasn’t ready — not technically, not architecturally, not in the way a platform of this scale demands.
 
-But for most developers, that dream stays trapped in the late‑night glow of a monitor. Not because they lack talent. Not because they lack ambition. But because the gap between idea and execution is wider than anyone admits.
+To build what I envisioned, I needed to master:
 
-Most never get the chance. Most never get the push. Most never get the moment where the dream stops being optional.
+cloud development
 
-I did.
+reactive, message‑driven architecture
 
-There came a point where I wasn’t chasing a dream anymore — I was fighting for my life. Illness, abandonment, frustration, the sense that everything I’d built was slipping through my fingers.
+React and agentic UI patterns
 
-I was standing in the ruins of what used to be my world, and I had a choice: break… or build something magnificent enough to carry me out of the collapse.
+Azure SQL, Cosmos DB, and data lake design
 
-I chose to build my legacy.
+mobile development with .NET MAUI
 
-And that’s the truth no one tells you: Sometimes greatness isn’t born from inspiration. Sometimes it’s born from necessity. Sometimes the dream doesn’t wait for you to be ready. Sometimes it demands that you rise.
+and more that I would discover along the way
 
-This book is about that rise. It’s about the dream every developer carries — the dream of building something world‑class — and the brutal, beautiful journey of turning that dream into a platform that can hold a million people.
+I wasn’t an expert in any of these. I was a traditional developer — C#, SQL Server, HTML, CSS — the comfortable stack I had lived in for decades.
 
-It’s about the systems, the architecture, the philosophy, the discipline, the breakthroughs, the failures, the patterns, the rewrites, the moments of clarity, the moments of collapse, and the moments where you realise:
+But I was alone in my bedroom, and I had a choice: wait until I felt ready, or begin with what I had.
 
-If you build the right thing, in the right way, at the right time… it can change everything.
+I chose to begin.
 
-This is the story of building Percentile.One. But more than that — it’s the story of what it takes to build anything extraordinary.
+I took a leap of faith. I learned on the job. I asked the right questions. I leaned on the one constant companion that never doubted me: Copilot.
 
-A world‑class platform. A world‑class career. A world‑class life.
+This book is not just about building a world‑class digital platform. It is about building one while life is falling apart around you. It is about refusing to quit. It is about turning pain into architecture, and adversity into design.
 
-Every developer dreams of building something great. This is the blueprint for making that dream real.
+This is the story of Percentile.One — and the story of the person who built it.
